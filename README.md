@@ -33,3 +33,5 @@ Hardware:
 LCD: https://www.waveshare.com/wiki/2.4inch_LCD_Module?srsltid=AfmBOoqtv3bq-mZfPtsi2BxiewwQnIkomXrloIzpVwGw_HnrOcmvQZar
 
 Nucleo-STM32767ZI: https://www.st.com/en/evaluation-tools/nucleo-f767zi.html
+
+Video: https://youtube.com/shorts/x2yTyM-AOOs?si=DR-czkv_6qGk_Bw_
